@@ -1,0 +1,7 @@
+{
+  "name": "TradeSizer AI",
+  "description": "A professional position sizing calculator implementing risk management principles. Features a dual-interface: a manual calculator and a Gemini-powered AI assistant that can reason about your trades and calculate risk automatically.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
